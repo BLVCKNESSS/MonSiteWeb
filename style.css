@@ -39,3 +39,9 @@ padding: 12px;
 text-align: center; 
 background: #e1eaf4; 
 } 
+#apropos{
+  width: 25%;
+  padding: 10px;
+  text-align: center;
+  background-color: beige;
+}
